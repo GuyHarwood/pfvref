@@ -1,0 +1,43 @@
+/* 
+    Created on : Jan 6, 2014, 11:30:38 PM
+    Author     : Masud Afsar <masud.afsar@live.com>
+*/
+
+
+.randbg {
+background: url('../images/fbi4_bg.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.randbg.bg1 {
+background-image: url('../images/fbi5_bg.jpg');
+}
+.randbg.bg2 {
+background-image: url('../images/fbi2_bg.jpg');
+}
+.randbg.bg3 {
+background-image: url('../images/fbi1_bg.jpg');
+}
+.randbg.bg4 {
+background-image: url('../images/fbi6_bg.jpg');
+}
+.randbg.bg5 {
+background-image: url('../images/fbi4_bg.jpg');
+}
+.randbg.bg6 {
+background-image: url('../images/fbi2_bg.jpg');
+}
+.randbg.bg7 {
+background-image: url('../images/fbi1_bg.jpg');
+}
+.randbg.bg8 {
+background-image: url('../images/fbi4_bg.jpg');
+}
+.randbg.bg9 {
+background-image: url('../images/fbi6_bg.jpg');
+}
+.randbg.bg0 {
+background-image: url('../images/fbi5_bg.jpg');
+}
